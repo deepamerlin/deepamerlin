@@ -1,7 +1,7 @@
 
 
 
-![alt text](https://github.com/deepamerlin/deepamerlin.github.io/blob/master/deepa.jpg)
+![alt text](https://github.com/deepamerlin/deepamerlin/blob/main/deepa.jpg)
 # Deepa Merlin Dixon
 
 ### Hola Amigo👋
