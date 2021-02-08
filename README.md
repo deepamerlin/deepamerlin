@@ -6,7 +6,7 @@
 
 ### Hola Amigo👋
 ---
-I am Deepa Merlin Dixon, a Computer Science and Engineering :student:. I am a Programmer, and always excited to learn new stuffs. 
+I am Deepa Merlin Dixon, Research and areas of interest are artificial intelligence, machine learning and datascience. I am a Programmer, and always excited to learn new stuffs. 
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
