@@ -6,8 +6,6 @@
 
 ### Hola Amigo👋
 ---
-# Hi, I'm Deepa Merlin 👋
-
 ### AI/ML Engineer | Generative AI | RAG | AI Agents | MLOps
 
 I'm an **AI/ML Engineer with 7+ years of experience** building machine learning and AI solutions across domains including sports, healthcare, finance, telecom, and transportation.
@@ -82,24 +80,15 @@ Some areas I'd like to showcase here:
 * LinkedIn: [Deepa Merlin](https://www.linkedin.com/in/deepa-merlin-a0125390/)
 * GitHub: [deepamerlin](https://github.com/deepamerlin)
 
-
-
+In short: 
 I am a Programmer, and always excited to learn new stuffs. 
-```
-Programmer (noun): A machine that turns coffee into code.
-```
 - :computer: I code in Python.
-- 🌱 I’m currently learning Artificial Intelligence, Machine learning and Data Science.
+- 🌱 I’m currently researching Artificial Intelligence, Machine learning and Data Science.
 - 😎 I’m looking to collaborate on projects based on Machine Learning.
 - 💬 Ask me about anything. If I didn't knew maybe I will learn something new!
 - ⚡ Fun fact: I am totally a chill person with great humor and can give you life advices as well.
-
-
 ----------------------------------------------
 
-
-
----------------------------------
 
 
 
